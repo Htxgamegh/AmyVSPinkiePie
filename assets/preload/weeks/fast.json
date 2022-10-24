@@ -1,0 +1,30 @@
+{
+	"storyName": "TankPony but Psych",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		255,
+		255,
+		255
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Blockhead",
+			"amy",
+			[
+				96,
+				105,
+				162
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "prot"
+}
