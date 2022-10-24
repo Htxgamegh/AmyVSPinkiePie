@@ -1,0 +1,157 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				240, -67
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "amy left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110, -210
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "amy down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30, 88
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "amy up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50, -110
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "amy right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				240, -67
+			],
+			"loop": false,
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "amy left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110, -210
+			],
+			"loop": false,
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "amy down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30, 88
+			],
+			"loop": false,
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "amy up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50, -110
+			],
+			"loop": false,
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "amy right",
+			"indices": []
+		},
+		
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "amy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "amy idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "amy alt idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30, 0
+			],
+			"loop": false,
+			"anim": "talk1",
+			"fps": 24,
+			"name": "amy talk1",
+			"indices": []
+		},
+		{
+			"offsets": [
+				154, 86
+			],
+			"loop": false,
+			"anim": "talk2",
+			"fps": 24,
+			"name": "amy talk2",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/amy",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "amy",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
